@@ -3,7 +3,7 @@
   "wake_word": "uh_YOOD_en_mey",
   "author": "Juan Kuscevic",
   "website": "http://www.simpleliving.cl/",
-  "model": "https://github.com/jkuscevic/simpleliving/blob/main/wakeword/uh_YOOD_en_mey.tflite",
+  "model": "https://raw.githubusercontent.com/jkuscevic/simpleliving/refs/heads/main/wakeword/uh_YOOD_en_mey.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
