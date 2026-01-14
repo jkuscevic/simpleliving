@@ -5,4 +5,7 @@
   "website": "http://www.simpleliving.cl/",
   "model": "https://raw.githubusercontent.com/jkuscevic/simpleliving/refs/heads/main/wakeword/uh_YOOD_en_mey.tflite",
   "version": 2,
+  "micro": {
+    "probability_cutoff": 0.97,
+  }
 }
